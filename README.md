@@ -50,6 +50,14 @@
 - **@types/react ^19** - Tipos para React
 - **@types/react-dom ^19** - Tipos para React DOM
 
+## Rutas
+- /
+- /auth/iniciar-sesion
+- /auth/registrar
+- /auth/restablecer-contrasena
+- /dashboard
+
+
 ## Arquitectura del Proyecto
 
 ```
