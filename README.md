@@ -1,3 +1,16 @@
+## Rutas
+- /
+![Ruta / ](images/Screenshot%202025-06-20%20at%2017-40-26%20Banco%20de%20Alimentos.png)
+- /auth/iniciar-sesion
+![Ruta /auth/iniciar-sesion ](images/Screenshot%202025-06-20%20at%2017-42-19%20Banco%20de%20Alimentos.png)
+- /auth/registrar
+![Ruta /auth/registrar ](images/Screenshot%202025-06-20%20at%2017-43-45%20Banco%20de%20Alimentos.png)
+![Ruta /auth/registrar ](images/Screenshot%202025-06-20%20at%2017-48-09%20Banco%20de%20Alimentos.png)
+![Ruta /auth/registrar ](images/Screenshot%202025-06-20%20at%2017-49-44%20Banco%20de%20Alimentos.png)
+- /auth/olvide-contrasena
+![Ruta /auth/olvide-contrasena ](images/Screenshot%202025-06-20%20at%2017-51-23%20Banco%20de%20Alimentos.png)
+
+
 ## Tecnologías Utilizadas
 
 - **Next.js 15.3.4**
@@ -49,14 +62,6 @@
 - **@types/node ^20.19.1** - Tipos para Node.js
 - **@types/react ^19** - Tipos para React
 - **@types/react-dom ^19** - Tipos para React DOM
-
-## Rutas
-- /
-- /auth/iniciar-sesion
-- /auth/registrar
-- /auth/restablecer-contrasena
-- /dashboard
-
 
 ## Arquitectura del Proyecto
 
