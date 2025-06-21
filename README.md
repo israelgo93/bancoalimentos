@@ -10,6 +10,8 @@
 - /auth/olvide-contrasena
 ![Ruta /auth/olvide-contrasena ](images/Screenshot%202025-06-20%20at%2017-51-23%20Banco%20de%20Alimentos.png)
 
+## Esquema de Base de Datos
+![Esquema de Base de Datos](images/supabase-schema-bfjmwjvzsywhmyruerxi.png)
 
 ## Tecnologías Utilizadas
 
