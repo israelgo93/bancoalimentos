@@ -57,3 +57,10 @@ URL y anon key de ese proyecto.
 - En Supabase local la confirmacion de email esta desactivada
   (`enable_confirmations = false`), asi que un usuario recien registrado puede
   iniciar sesion de inmediato.
+
+### Gotcha del build
+
+No ejecutar `npm run build` mientras `npm run dev` esta corriendo: ambos comparten
+la carpeta `.next` y el build corrompe los manifests del dev server (errores
+`ENOENT ... app-build-manifest.json` y respuestas 500). Si pasa, detener el dev
+server, borrar `.next` y volver a iniciar `npm run dev`.
